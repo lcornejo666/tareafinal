@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: hsl(240, 1%, 26%);
+}
+header img{ 
+    width: 130px;
+    display: inline-block;
+    padding: 3px 50px;
+}
+header p{ 
+    color: yellow;
+    float: right;
+    padding: 25px 30px;
+}
+footer {
+    width: 100%;
+    position:fixed;
+    bottom:0px;
+    background: black;
+    color: white;
+}
+footer img{ 
+    width: 30px;
+    padding: 10px 25px;
+    float: right;
+}
+footer p{ 
+    color: yellow;
+    float: left;
+    padding: 15px 0px 15px 50px;
+}
